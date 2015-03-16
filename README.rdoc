@@ -1,5 +1,5 @@
 This Clone was made as a Ruby on Rails Tutorial and styled using both custom styling and Bootstrap. 
-There is special emphasis on Users with Devise gem, Comments, Voting with acts_as_votable gem, HAML and CRUD ability.
+There is special emphasis on Users with Devise gem, Comments, Voting with acts_as_votable gem, HAML and CRUD (create, read, update, destroy).
 
 Go to http://www.crashlearner.com for more info/tutorials.
 
