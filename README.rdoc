@@ -1,28 +1,5 @@
-== README
+This Clone was made as a Ruby on Rails Tutorial and styled using both custom styling and Bootstrap. 
+There is special emphasis on Users with Devise gem, Comments, Voting with acts_as_votable gem, HAML and CRUD ability.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Go to http://www.crashlearner.com for more info/tutorials.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
